@@ -1,0 +1,15 @@
+Connected to news database
+
+The most popular three articles of all time are:
+Trouble for troubled troublemakers - 84810 views
+There are a lot of bears - 84504 views
+Media obsessed with bears - 84383 views
+
+The most popular article authors are:
+Ursula La Multa - 507594 views
+Rudolf von Treppenwitz - 423457 views
+Markoff Chaney - 84557 views
+Anonymous Contributor - 170098 views
+
+On these days more than 1% of requests led to errors:
+Jul 17 2016 - 2.26%
